@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://burgeoly.github.io/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/app/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/assets/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/css/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/includes/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/item/burgeoly.burgeoly
+Sitemap: https://burgeoly.github.io/src/burgeoly.burgeoly
